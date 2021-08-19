@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 🌱 Graduated from ZheJiang University
 - 👯 [KubeEdge](https://github.com/kubeedge/kubeedge) Member
 - 👯 [EdgeMesh](https://github.com/kubeedge/edgemesh) Contributor/Member
-- 👯 TODO [Istio](https://github.com/istio/istio) Contributor
+- 👯 -[] [Istio](https://github.com/istio/istio) Contributor
+- 👯 -[] [OpenYurt](https://github.com/openyurt.io/openyurt) Contributor
 - 📫 How to reach me: 13126896150@163.com
 
 ![](https://github-readme-stats.vercel.app/api?username=ZBoIsHere&count_private=true)
